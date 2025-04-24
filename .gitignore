@@ -1,0 +1,14 @@
+obj/
+file/
+log/
+asm/
+pp/
+minishell
+*.a
+*.o
+infile*
+outfile*
+LucasKuhn
+solaldunckel
+we-sh
+zstenger93

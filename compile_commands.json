@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-I./libft/include",
+      "-c",
+      "-o",
+	  "-Werror",
+	  "-Wextra",
+	  "-Wall"
+    ],
+    "directory": "/home/antoine/42/minishell",
+    "file": "/home/antoine/42/minishell/src/*.c"
+  }
+]
